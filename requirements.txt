@@ -1,0 +1,12 @@
+streamlit
+transformers
+pandas
+scikit-learn
+altair
+joblib
+numpy
+xlsxwriter
+torch
+
+
+

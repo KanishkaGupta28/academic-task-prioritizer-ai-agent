@@ -32,11 +32,11 @@ This video demonstrates how the AI Agent prioritizes academic tasks, calculates 
 
 | Screenshot | Description |
 |-------------|--------------|
-| ![Screenshot 1](Screenshots_project/Screenshot_1.png) | Application Home Interface |
-| ![Screenshot 2](Screenshots_project/Screenshot_2.png) | Task Input and Add Form |
-| ![Screenshot 3](Screenshots_project/Screenshot_3.png) |Recommended Order and Evaluation metrics |
-| ![Screenshot 4](Screenshots_project/Screenshot_4.png) | Magnified Recommended Order |
-| ![Screenshot 5](Screenshots_project/Screenshot_5.png) | Visualization Dashboard |
+| ![Screenshot_1](Screenshots_project/Screenshot_1.png) | Application Home Interface |
+| ![Screenshot_2](Screenshots_project/Screenshot_2.png) | Task Input and Add Form |
+| ![Screenshot_3](Screenshots_project/Screenshot_3.png) |Recommended Order and Evaluation metrics |
+| ![Screenshot_4](Screenshots_project/Screenshot_4.png) | Magnified Recommended Order |
+| ![Screenshot_5](Screenshots_project/Screenshot_5.png) | Visualization Dashboard |
 
 ---
 
